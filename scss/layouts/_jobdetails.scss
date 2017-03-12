@@ -1,0 +1,26 @@
+.page-header{
+padding:$padding;
+text-align:left;}
+
+.job-list a{
+color:$black;}
+
+.job-list a:hover{
+color:$grey;}
+
+.job-list ul{
+list-style-type:none;
+margin: 0;
+padding: 0;}
+
+.job-list{
+border-bottom:1px solid $grey;
+}
+
+.meta-tags{
+padding:5px;}
+
+@media screen and (max-width: 1035px){
+.refine{
+display:none;}
+}
