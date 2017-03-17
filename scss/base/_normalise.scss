@@ -14,27 +14,14 @@ p{
 	margin-left:3px;
 	}
 	
-/*sticky footer*/
-
-html{
-	height:100%;
-	}
-	
-body{
-	min-height:100%;
-	display: flex;
-	flex-direction:column;
-	}
-	
-content{
-	flex: 1;
-	}
-
 	
 h1, h2{
 	padding:$padding;
 	text-align:$center;}
 	
+h3{
+padding:$padding;}
+
 .images h2{
 	padding:$image-padding;}
 	

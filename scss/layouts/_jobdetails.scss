@@ -20,6 +20,9 @@ border-bottom:1px solid $grey;
 .meta-tags{
 padding:5px;}
 
+span{
+padding:$span-padding;}
+
 @media screen and (max-width: 1035px){
 .refine{
 display:none;}
